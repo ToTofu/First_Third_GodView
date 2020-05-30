@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: c81916d11f553cf4681d67a18a158ae5
+timeCreated: 1556180385
+licenseType: Pro
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Dutch801 Rm BT
+  fontNames:
+  - Dutch801 Rm BT
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
